@@ -11,8 +11,8 @@ namespace Ligipaasusysteem
         public Boss()
         {
             Title = "Boss";
-            RightsToRooms = new string[] { "HeadDoor", "Kitchen",
-                "DataProcessingRoom", "DevelopersRoom", "BossRoom" };
+            RightsToRooms = new string[] { "Head Door", "Kitchen",
+                "Data Processing Room", "Developers Room", "Boss Room" };
 
         }
     }

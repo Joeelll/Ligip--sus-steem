@@ -11,8 +11,8 @@ namespace Ligipaasusysteem
         public DataProcessor()
         {
             Title = "Data Processor";
-            RightsToRooms = new string[] { "HeadDoor", "Kitchen",
-                "DataProcessingRoom" };
+            RightsToRooms = new string[] { "Head Door", "Kitchen",
+                "Data Processing Room" };
         }
     }
 }

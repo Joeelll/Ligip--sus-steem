@@ -11,8 +11,8 @@ namespace Ligipaasusysteem
         public Cleaner()
         {
             Title = "Cleaner";
-            RightsToRooms = new string[] { "HeadDoor", "Kitchen",
-                "DataProcessingRoom", "DevelopersRoom" };
+            RightsToRooms = new string[] { "Head Door", "Kitchen",
+                "Data Processing Room", "Developers Room" };
         }
     }
 }

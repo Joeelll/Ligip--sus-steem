@@ -18,11 +18,12 @@ namespace Ligipaasusysteem
             {
                 Console.WriteLine("Which room do you want to enter?");
                 Console.WriteLine(
-                    "Kitchen",
-                    "\nData Processing Room",
-                    "\nDevelopers Room",
+                    "Kitchen" +
+                    "\nData Processing Room" +
+                    "\nDevelopers Room" +
                     "\nBoss Room");
                 string userInput = Console.ReadLine();
+                Console.Clear();
                 switch (userInput.ToLower())
                 {
                     case "kitchen":
@@ -30,18 +31,19 @@ namespace Ligipaasusysteem
                         Employee.EnterRoom(InputRoom);
                         break;
                     case "data processing room":
-                        InputRoom = "DataProcessingRoom";
+                        InputRoom = "Data Processing Room";
                         Employee.EnterRoom(InputRoom);
                         break;
-                    case "developers":
-                        InputRoom = "DevelopersRoom";
+                    case "developers room":
+                        InputRoom = "Developers Room";
                         Employee.EnterRoom(InputRoom);
                         break;
                     case "boss room":
-                        InputRoom = "BossRoom";
+                        InputRoom = "Boss Room";
                         Employee.EnterRoom(InputRoom);
                         break;
                 }
+                Console.Clear();
             }
         }
     

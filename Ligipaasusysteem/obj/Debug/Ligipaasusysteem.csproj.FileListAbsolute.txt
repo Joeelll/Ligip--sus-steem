@@ -5,3 +5,10 @@ c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaas
 c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\bin\Debug\Ligipaasusysteem.pdb
 c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.exe
 c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.pdb
+C:\Users\opilane\Documents\GitHub\Ligip--sus-steem\Ligipaasusysteem\bin\Debug\Ligipaasusysteem.exe.config
+C:\Users\opilane\Documents\GitHub\Ligip--sus-steem\Ligipaasusysteem\bin\Debug\Ligipaasusysteem.exe
+C:\Users\opilane\Documents\GitHub\Ligip--sus-steem\Ligipaasusysteem\bin\Debug\Ligipaasusysteem.pdb
+C:\Users\opilane\Documents\GitHub\Ligip--sus-steem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\GitHub\Ligip--sus-steem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\GitHub\Ligip--sus-steem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.exe
+C:\Users\opilane\Documents\GitHub\Ligip--sus-steem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.pdb

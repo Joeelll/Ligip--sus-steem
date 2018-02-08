@@ -43,9 +43,11 @@ namespace Ligipaasusysteem
                     var Boss = new Boss();
                     break;
             }
+            Console.Clear();
 
             Console.WriteLine("Do you want to enter the office? (Y/N)");
             userInput = Console.ReadLine();
+            Console.Clear();
             if (userInput.ToLower() == "y")
             {
                 Rooms.ChooseRoomToEnter();

@@ -11,8 +11,8 @@ namespace Ligipaasusysteem
         public JuniorDeveloper()
         {
             Title = "Junior Developer";
-            RightsToRooms = new string[] { "HeadDoor", "Kitchen",
-                "DevelopersRoom" };
+            RightsToRooms = new string[] { "Head Door", "Kitchen",
+                "Developers Room" };
 
         }
     }
