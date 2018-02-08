@@ -8,5 +8,9 @@ namespace Ligipaasusysteem
 {
     class DataProcessingRoom : Rooms
     {
+        public DataProcessingRoom()
+        {
+            Room = "Data Processing Room";
+        }
     }
 }

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ligipaasusysteem
 {
-    class DevelopersRoom
+    class DevelopersRoom : Rooms
     {
+        public DevelopersRoom()
+        {
+            Room = "Developers Room";
+        }
     }
 }

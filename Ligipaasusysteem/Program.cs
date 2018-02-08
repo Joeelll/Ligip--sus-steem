@@ -23,23 +23,23 @@ namespace Ligipaasusysteem
             string userInput = Console.ReadLine();
             switch (userInput.ToLower())
             {
-                case "Cleaner":
+                case "cleaner":
                     var Cleaner = new Cleaner();
                     JobTitle = "Cleaner";
                     break;
-                case "Head Cleaner":
+                case "head cleaner":
                     var HeadCleaner = new HeadCleaner();
                     break;
-                case "Data Processor":
+                case "data processor":
                     var DataProcessor = new DataProcessor();
                     break;
-                case "Junior Developer":
+                case "junior developer":
                     var JuniorDeveloper = new JuniorDeveloper();
                     break;
-                case "Senior Developer":
+                case "senior developer":
                     var SeniorDeveloper = new SeniorDeveloper();
                     break;
-                case "Boss":
+                case "boss":
                     var Boss = new Boss();
                     break;
             }

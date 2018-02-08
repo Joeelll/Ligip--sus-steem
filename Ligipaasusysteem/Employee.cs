@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Ligipaasusysteem
 {
-    class Employee
+    public abstract class Employee
     {
         public string Title;
         public string[] RightsToRooms;
 
-        void EnterRoom()
+        public static void EnterRoom(string InputRoom)
         {
             
         }

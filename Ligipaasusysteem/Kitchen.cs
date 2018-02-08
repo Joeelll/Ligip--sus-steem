@@ -8,5 +8,9 @@ namespace Ligipaasusysteem
 {
     class Kitchen : Rooms
     {
+        public Kitchen()
+        {
+            Room = "Kitchen";
+        }
     }
 }

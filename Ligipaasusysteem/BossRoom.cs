@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ligipaasusysteem
 {
-    public abstract class BossRoom : Rooms
+    class BossRoom : Rooms
     {
         public BossRoom()
         {
