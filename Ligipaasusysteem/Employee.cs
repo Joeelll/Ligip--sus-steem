@@ -11,9 +11,9 @@ namespace Ligipaasusysteem
         public string Title;
         public string[] RightsToRooms;
 
-        void SetJobTitle()
+        void EnterRoom()
         {
-
+            
         }
     }
 }

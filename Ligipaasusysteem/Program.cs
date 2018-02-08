@@ -25,6 +25,7 @@ namespace Ligipaasusysteem
             {
                 case "Cleaner":
                     var Cleaner = new Cleaner();
+                    JobTitle = "Cleaner";
                     break;
                 case "Head Cleaner":
                     var HeadCleaner = new HeadCleaner();
@@ -41,6 +42,17 @@ namespace Ligipaasusysteem
                 case "Boss":
                     var Boss = new Boss();
                     break;
+            }
+
+            Console.WriteLine("Do you want to enter the office? (Y/N)");
+            userInput = Console.ReadLine();
+            if (userInput.ToLower() == "y")
+            {
+                Rooms.ChooseRoomToEnter();
+            }
+            else
+            {
+
             }
 
 

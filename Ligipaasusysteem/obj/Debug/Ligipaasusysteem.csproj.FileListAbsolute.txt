@@ -1,0 +1,7 @@
+c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.csproj.CoreCompileInputs.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\bin\Debug\Ligipaasusysteem.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\bin\Debug\Ligipaasusysteem.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\bin\Debug\Ligipaasusysteem.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Ligipaasusysteem\Ligipaasusysteem\obj\Debug\Ligipaasusysteem.pdb
